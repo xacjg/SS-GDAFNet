@@ -1,4 +1,4 @@
-\# SS-GDAFNet: Spatial-Frequency Synergistic Network for High-Resolution Remote Sensing Image Change Detection
+\# SS-GDAFNet: A Global-Guided Spatial-Frequency Collaborative Network for High-Resolution Remote Sensing Change Detection
 
 
 
